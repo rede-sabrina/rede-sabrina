@@ -19,13 +19,13 @@ Hoje, a Rede Sabrina é referência regional em saúde, bem-estar e confiança.
 
 Atendemos com agilidade nas seguintes cidades:
 
-📍 **Registro**  
+📍 **Registro - SP**  
 📞 (13) 93300-4045
 
-📍 **Cajati**  
+📍 **Cajati - SP**  
 📞 (13) 93300-2998
 
-📍 **Jacupiranga**  
+📍 **Jacupiranga - SP**  
 📞 (13) 93300-4038
 
 ---
