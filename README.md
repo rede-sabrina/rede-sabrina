@@ -1,16 +1,52 @@
-## Hi there 👋
+# 💊 Rede Sabrina
 
-<!--
-**rede-sabrina/rede-sabrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Drogaria e Perfumaria Sabrina**  
+Há **28 anos** fazendo o seu dia a dia muito melhor.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏪 Sobre a Rede Sabrina
+
+A **Drogaria e Perfumaria Sabrina** foi fundada em **agosto de 1997**, na cidade de **Sete Barras – SP**, a partir do sonho de um casal que acreditava ser possível oferecer à população uma farmácia completa, com **preços acessíveis**, **grande variedade de produtos** e **atendimento de qualidade**.
+
+Com o crescimento desse sonho e o empenho constante em evoluir, a Rede Sabrina expandiu suas operações para outras cidades da região. A segunda unidade foi inaugurada em **Registro – SP**, a apenas 18 km de Sete Barras, marcando o início de uma trajetória de crescimento sólido.
+
+Hoje, a Rede Sabrina é referência regional em saúde, bem-estar e confiança.
+
+---
+
+## 🚚 Nosso Delivery
+
+Atendemos com agilidade nas seguintes cidades:
+
+📍 **Registro**  
+📞 (13) 93300-4045
+
+📍 **Cajati**  
+📞 (13) 93300-2998
+
+📍 **Jacupiranga**  
+📞 (13) 93300-4038
+
+---
+
+## 🌐 Redes Sociais
+
+Acompanhe nossas novidades, ofertas e conteúdos exclusivos:
+
+- 📸 Instagram - https://www.instagram.com/drogariasabrinaoficial/%20
+- 📘 Facebook - https://www.facebook.com/redesabrina?locale=pt_BR
+- 🎵 TikTok - https://www.tiktok.com/@sabrina.drugstore  
+
+---
+
+## 📞 Contato
+
+📧 **E-mail:** contato@redesabrina.com.br  
+💼 **Trabalhe Conosco:** disponível em nosso site  
+🔥 **Canal exclusivo de ofertas:** consulte nossas redes sociais
+
+---
+
+© **2025 – Rede Sabrina**  
+Todos os direitos reservados.
