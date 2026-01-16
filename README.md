@@ -1,4 +1,4 @@
-# 💊 Rede Sabrina
+#  Rede Sabrina
 
 **Drogaria e Perfumaria Sabrina**  
 Há **28 anos** fazendo o seu dia a dia muito melhor.
