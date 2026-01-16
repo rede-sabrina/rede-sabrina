@@ -48,5 +48,5 @@ Acompanhe nossas novidades, ofertas e conteúdos exclusivos:
 
 ---
 
-© **2025 – Rede Sabrina**  
+© **2026 – Rede Sabrina**  
 Todos os direitos reservados.
